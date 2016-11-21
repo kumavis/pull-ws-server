@@ -8,12 +8,12 @@
     "url": "git://github.com/ssbc/pull-ws-server.git"
   },
   "dependencies": {
-    "pull-ws": "^2.3.0",
+    "pull-ws": "^3.2.8",
     "relative-url": "^1.0.0",
     "ws": "^1.1.0"
   },
   "devDependencies": {
-    "pull-json-doubleline": "^1.0.0",
+    "pull-json-doubleline": "^2.0.0",
     "pull-split": "^0.2.0",
     "pull-stream": "^3.3.2",
     "pull-through": "^1.0.18",
